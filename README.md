@@ -6,6 +6,6 @@
 - 😄 Pronouns:She/her
 - ⚡ Fun fact: Though I'm pursuing Btech in Computer science with specialisation in AI. I have huge interest in cyber security and blockchain development. I believe fusion of these would take us really far in technology.
 <!---
-Sangini-spec/Sangini-spec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sangini-spec/introduction is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
