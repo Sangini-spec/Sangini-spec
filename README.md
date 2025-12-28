@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Sangini Tripathi<br>👀 I’m interested in latest technology for instance AI and coding.<br>🌱 I have strong understanding of JAVA and Python languages.<br>💞️ I’m looking to collaborate on github and linkedin or via gmail.<br>📫 You can reach me through my gmail ID--sanginitripathi8@gmail.com<br>😄 Pronouns:She/her<br>⚡ Fun fact: Though I'm pursuing Btech in Computer science with specialisation in AI. I have huge interest in cyber security . I believe fusion of AI and Cyber Security would take us really far in technology.
+👋 Hi, I’m Sangini Tripathi<br>👀 I’m interested in latest technology for instance AI and coding.<br>🌱 I have strong understanding of JAVA and Python languages.<br>💞️ I’m looking to collaborate on github and linkedin or via gmail.<br>📫 You can reach me through my gmail ID -- sanginitripathi8@gmail.com<br>😄 Pronouns:She/her<br>⚡ Fun fact: Though I'm pursuing Btech in Computer science with specialisation in AI. I have huge interest in cyber security . I believe fusion of AI and Cyber Security would take us really far in technology.
 
 
 ## 🌐 Socials:
